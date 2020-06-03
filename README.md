@@ -20,7 +20,7 @@ cehui
 		cehui-management（业务和数据持久化）
 			cehui-api
 			cehui-mapper
-			cehui-model
+			cehui-model 
 			cehui-service
 
 		cehui-provider-management（生产者父级项目）
